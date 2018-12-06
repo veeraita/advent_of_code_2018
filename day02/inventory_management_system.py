@@ -43,5 +43,6 @@ for i in range(len(ids)):
             break
     if common:
         break
+
 print("Correct box IDs are {} and {}".format(id1, id2))
 print("Common letters are {} (difference on index {})".format(common, diff_index))
