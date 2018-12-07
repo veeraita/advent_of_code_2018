@@ -28,9 +28,9 @@ def reduce(polymer):
         #print("Current length: ", len(polymer))
     return len(polymer)
 
-#reduced_length = reduce(poly)
-#print("\nFinal length: ", reduced_length)
-#print("\n")
+reduced_length = reduce(poly)
+print("\nFinal length: ", reduced_length)
+print("\n")
 
 
 ### PART TWO ###
